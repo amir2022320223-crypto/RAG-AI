@@ -1,7 +1,0 @@
-streamlit
-langchain
-PyPDF2
-faiss-cpu
-langchain-openai
-tiktoken
-langchain-community
